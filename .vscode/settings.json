@@ -10,5 +10,11 @@
 			"username": "postgres",
 			"password": "postgres"
 		}
-	]
+	],
+	"yaml.schemas": {
+		"/Users/johnbeynon/render.schema.json": [
+			"NEW render.yaml",
+			"file:///Users/johnbeynon/workspace/customer-yamls/render.yaml"
+		]
+	}
 }
